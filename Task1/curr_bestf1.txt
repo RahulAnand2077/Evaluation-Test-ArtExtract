@@ -1,0 +1,11 @@
+Epoch [49/50] Batch [0] Loss: 3.1395
+Epoch [49/50] Batch [100] Loss: 3.7783
+Epoch [49/50] Batch [200] Loss: 3.6978
+Epoch [49/50] Batch [300] Loss: 4.0062
+
+Epoch 49:
+Artist Macro F1: 0.5454269930337651
+Genre Macro F1: 0.4196847867394844
+Style Macro F1: 0.43365480966919545
+
+--- Model Saved! New Best Avg F1: 0.4663 ---
