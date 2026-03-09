@@ -211,3 +211,6 @@ __marimo__/
 Task1/.venv
 Task1/wikiart
 Task1/wikiart_csv
+
+Task2/.venv
+Task2/nga_dataset
