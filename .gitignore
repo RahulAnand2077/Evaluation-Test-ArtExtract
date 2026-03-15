@@ -207,10 +207,21 @@ marimo/_lsp/
 __marimo__/
 
 
+
+
+
 /ArtExtract
+
+
 Task1/.venv
 Task1/wikiart
 Task1/wikiart_csv
+Task1/best_art_model_convnext_gru.pth
+Task1/best_art_model_resnet_lstm.pth
+Task1/best_art_model_ViT.pth
+
 
 Task2/.venv
 Task2/nga_dataset
+Task2/final_resnet_model.pth
+Task2/final_vit_model.pth

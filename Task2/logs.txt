@@ -1,0 +1,10 @@
+EmbeddingNet
+Epoch 50, Loss: 0.6827,           Pos Dist: 0.5893, Neg Dist: 0.9727
+Recall@5: 91.86%
+
+
+ViTEmbeddingNet
+Epoch 30, Loss: 0.0101,           Pos Dist: 0.2746, Neg Dist: 1.7482
+Recall@5: 100.00%
+
+
