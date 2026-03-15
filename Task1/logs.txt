@@ -1,0 +1,45 @@
+ResNet18 + Bi-LSTM :
+
+Epoch [49/50] Batch [0] Loss: 3.1395
+Epoch [49/50] Batch [100] Loss: 3.7783
+Epoch [49/50] Batch [200] Loss: 3.6978
+Epoch [49/50] Batch [300] Loss: 4.0062
+
+Epoch 49:
+Artist Macro F1: 0.5454269930337651
+Genre Macro F1: 0.4196847867394844
+Style Macro F1: 0.43365480966919545
+
+--- Model Saved! New Best Avg F1: 0.4663 ---
+
+
+
+ConvNeXt + Bi-GRUs :
+Epoch [14/30] Batch [0] Loss: 0.5242
+Epoch [14/30] Batch [100] Loss: 0.9491
+Epoch [14/30] Batch [200] Loss: 1.0771
+Epoch [14/30] Batch [300] Loss: 1.1177
+
+Epoch 14:
+Artist Macro F1: 0.8226150350119557
+Genre Macro F1: 0.728595880352078
+Style Macro F1: 0.6671152632174259
+
+--- Model Saved! New Best Avg F1: 0.7394 ---
+
+
+
+
+Vision Transformer:
+
+Epoch [1/1] Batch [0] Loss: 6.4501
+Epoch [1/1] Batch [100] Loss: 4.1061
+Epoch [1/1] Batch [200] Loss: 4.4802
+Epoch [1/1] Batch [300] Loss: 3.7692
+
+Epoch 1:
+Artist Macro F1: 0.5280275610430389
+Genre Macro F1: 0.4654279989384995
+Style Macro F1: 0.38960482809108515
+
+--- Model Saved! New Best Avg F1: 0.4610 ---
